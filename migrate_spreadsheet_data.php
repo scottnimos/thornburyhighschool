@@ -64,7 +64,7 @@ try {
 			if ($row[0] != "")
 			{
 				$author = htmlspecialchars(trim($row[1]), ENT_QUOTES);
-				$search = array("principle", "Principle");
+				$search = array("principle", "Principle");//YES cause people dont know how to spell
 				$replace = array("principal", "Principal");
 				$message = str_replace($search, $replace, htmlspecialchars(trim($row[2]), ENT_QUOTES));
 
