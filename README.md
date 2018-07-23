@@ -1,5 +1,5 @@
 # Thornbury HS Farewell Page
-A message board for the community to send there personal message to our beloved retired principal Peter Egeberg. 
+A message board for the community to send their personal message to our beloved retired principal Peter Egeberg. 
 Which was further turned into a physical book with all the submissions. 
 This was a project I did earlier in my degree where I made it **quickly as possible**
 
