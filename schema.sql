@@ -1,0 +1,7 @@
+CREATE TABLE message(
+   id INT NOT NULL AUTO_INCREMENT,
+   date TIMESTAMP NOT NULL,
+   author VARCHAR(256) NOT NULL,
+   message TEXT NOT NULL,
+   PRIMARY KEY (id)
+);
